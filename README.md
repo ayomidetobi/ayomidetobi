@@ -54,6 +54,9 @@ A software developer with over 5 years of experience in designing and implementi
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayomidetobi&theme=radical)
 
+## 💼 Summary Cards
+
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayomidetobi&theme=radical)
 
 
 ## 📫 How to reach me
