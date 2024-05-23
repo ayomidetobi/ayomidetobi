@@ -41,15 +41,15 @@ I'm a software developer with over 5 years of experience in designing and implem
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayomidetobishow_icons=true&theme=radical)
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidetobilayout=compact&theme=radical)
 
 ## 🌟 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayomidetobi&theme=radical)
 
 ## 📫 How to reach me
 
