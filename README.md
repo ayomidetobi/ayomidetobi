@@ -1,6 +1,6 @@
 # Hi there, I'm Ayomide Oluwatobiloba Adekoya 👋
 
-I'm a software developer with over 5 years of experience in designing and implementing web applications using React, Django, and Python. I have worked for companies like Techstudio, Nigeria's number one EduTech company, where I created an online learning platform, and ATafrica (ft9ja), Africa's leading proprietary firm.
+A software developer with over 5 years of experience in designing and implementing web applications using React, Django, and Python. I have worked for companies like Techstudio, Nigeria's number one EduTech company, where I created an online learning platform, and ATafrica (ft9ja), Africa's leading proprietary firm.
 
 ## 🛠️ My Tech Stack
 
