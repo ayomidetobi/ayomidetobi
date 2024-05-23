@@ -52,8 +52,8 @@ A software developer with over 5 years of experience in designing and implementi
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adekoyatobi/)
+- Email: [Adekoya's email](mailto:adekoyaayomide592@gmail.com)
 
 
 <!--
