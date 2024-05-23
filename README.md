@@ -50,15 +50,12 @@ A software developer with over 5 years of experience in designing and implementi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayomidetobi&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ayomidetobi&theme=radical)
-
 
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayomidetobi&theme=radical)
+![GitHub Activity Graph](https://github-contribution-graph.epicmax.co/?username=ayomidetobi&theme=radical)
+
 
 ## 💼 Summary Cards
 
