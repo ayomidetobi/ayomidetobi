@@ -54,7 +54,7 @@ A software developer with over 5 years of experience in designing and implementi
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-contribution-graph.epicmax.co/?username=ayomidetobi&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayomidetobi&theme=radical)
 
 
 ## 💼 Summary Cards
