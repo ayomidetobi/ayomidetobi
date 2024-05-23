@@ -49,6 +49,10 @@ A software developer with over 5 years of experience in designing and implementi
 ## 🌟 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayomidetobi&theme=radical)
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayomidetobi&theme=radical)
+
 
 ## 📫 How to reach me
 
