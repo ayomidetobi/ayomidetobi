@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ayomide Oluwatobiloba Adekoya 👋
 
 I'm a software developer with over 5 years of experience in designing and implementing web applications using React, Django, and Python. I have worked for companies like Techstudio, Nigeria's number one EduTech company, where I created an online learning platform, and ATafrica (ft9ja), Africa's leading proprietary firm.
 
@@ -12,7 +12,6 @@ I'm a software developer with over 5 years of experience in designing and implem
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
