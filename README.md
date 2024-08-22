@@ -1,6 +1,6 @@
 # Hi there, I'm Ayomide Oluwatobiloba Adekoya 👋
 
-Hello! I'm a versatile Full Stack Developer with a blend of expertise in building web applications and a strong foundation in data science. At Kedak, I focus on crafting scalable solutions like our Smart Business Card web application using Django and React, all while managing CI/CD pipelines and ensuring seamless deployments on Azure Cloud. 
+ I'm a versatile Full Stack Developer with a blend of expertise in building web applications and a strong foundation in data science. At Kedak, I focus on crafting scalable solutions like our Smart Business Card web application using Django and React, all while managing CI/CD pipelines and ensuring seamless deployments on Azure Cloud. 
 
 My role at ATAAFRICA saw me dive deep into customer feedback analysis using natural language processing with Selenium and Scrapy-Splash, reducing churn rates considerably. I’ve worked on various facets of web development, from designing APIs with Django Rest Framework to deploying robust task management systems using Celery and Redis.
 
