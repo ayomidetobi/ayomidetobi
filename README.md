@@ -57,7 +57,7 @@ Let’s connect! Feel free to explore my portfolio or recent projects, and let�
 
 ## 🌟 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayomidetobi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ayomidetobi&theme=radical)
 
 
 
