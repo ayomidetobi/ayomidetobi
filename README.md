@@ -47,7 +47,7 @@ Let's connect
 
 ## 🌟 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ayomidetobi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ayomidetobi&theme=radical)
 
 
 
